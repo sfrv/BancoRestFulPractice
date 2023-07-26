@@ -1,0 +1,12 @@
+C:\MyLocal\BankRestFulPractice\Application\bin\Debug\net6.0\Application.deps.json
+C:\MyLocal\BankRestFulPractice\Application\bin\Debug\net6.0\Application.dll
+C:\MyLocal\BankRestFulPractice\Application\bin\Debug\net6.0\Application.pdb
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.dll
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\refint\Application.dll
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\Application.pdb
+C:\MyLocal\BankRestFulPractice\Application\obj\Debug\net6.0\ref\Application.dll

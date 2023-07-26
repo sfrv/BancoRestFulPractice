@@ -30,3 +30,13 @@ C:\MyLocal\BankRestFulPractice\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
 C:\MyLocal\BankRestFulPractice\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 C:\MyLocal\BankRestFulPractice\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 C:\MyLocal\BankRestFulPractice\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\MediatR.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\Application.dll
+C:\MyLocal\BankRestFulPractice\WebAPI\bin\Debug\net6.0\Application.pdb
